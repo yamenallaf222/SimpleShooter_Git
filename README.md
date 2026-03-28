@@ -16,7 +16,9 @@ ThirdPersonShooter
 
 Here is a youtube Video for Gameplay
 
-[![Watch the video](https://img.youtube.com/vi/QfJDUrmpink/maxresdefault.jpg)](https://www.youtube.com/watch?v=QfJDUrmpink)
+[Video Link](https://www.youtube.com/watch?v=QfJDUrmpink)
+
+![Watch the video](https://img.youtube.com/vi/QfJDUrmpink/maxresdefault.jpg)
 
 This project is a Third-person shooter game project whcih does has the mecahnics of being able to : move , jump , change
 camera shoulders and obiously shoot .
