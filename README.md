@@ -1,7 +1,7 @@
 # SimpleShooter_Git
 ThirdPersonShooter
 
-Here is a youtube Video for Game Gameplay
+Here is a youtube Video for Gameplay
 
 [![Watch the video](https://img.youtube.com/vi/QfJDUrmpink/maxresdefault.jpg)](https://www.youtube.com/watch?v=QfJDUrmpink)
 
