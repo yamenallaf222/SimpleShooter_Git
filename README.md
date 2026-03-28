@@ -1,25 +1,18 @@
 # SimpleShooter_Git
 ThirdPersonShooter
 
-<svg width="280" height="64" viewBox="0 0 280 64" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <a xlink:href="https://mega.nz/folder/xmZxxT7T#sGwpy669BF-bz2Vp86vNjw" target="_blank">   
-    <rect x="2" y="2" width="276" height="60" rx="30" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-    <rect x="2" y="2" width="276" height="60" rx="30" fill="none" stroke="url(#borderGradient)" stroke-width="3" stroke-dasharray="80 400">
-      <animate attributeName="stroke-dashoffset" from="480" to="0" dur="2.5s" repeatCount="indefinite" />
-    </rect>
-    <image xlink:href="https://cdn-icons-png.flaticon.com/512/2991/2991644.png" x="15" y="15" width="34" height="34" />
-    <text x="65" y="38" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">
-      Playable Demo Here!!!!!
-    </text>
-    <defs>
-      <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#58a6ff" />
-        <stop offset="50%" stop-color="#bc8cff" />
-        <stop offset="100%" stop-color="#58a6ff" />
-      </linearGradient>
-    </defs>
+<div align="center">
+  <a href="https://mega.nz/folder/xmZxxT7T#sGwpy669BF-bz2Vp86vNjw">
+    <table border="1">
+      <tr>
+        <td bgcolor="#0d1117" align="center" width="280" height="50">
+          <img src="https://cdn-icons-png.flaticon.com/512/2991/2991644.png" width="20" vertical-align="middle">
+          <font color="#58a6ff"><b> &nbsp; PLAYABLE DEMO HERE!!!!!</b></font>
+        </td>
+      </tr>
+    </table>
   </a>
-</svg>
+</div>
 
 Here is a youtube Video for Gameplay
 
