@@ -1,6 +1,10 @@
 # SimpleShooter_Git
 ThirdPersonShooter
 
+Here is a youtube Video for Game Gameplay
+
+[![Watch the video](https://img.youtube.com/vi/QfJDUrmpink/maxresdefault.jpg)](https://www.youtube.com/watch?v=QfJDUrmpink)
+
 This project is a Third-person shooter game project whcih does has the mecahnics of being able to : move , jump , change
 camera shoulders and obiously shoot .
 
@@ -23,9 +27,7 @@ The Game Feature a UI for starting the game as well as options to change mouse a
 
 ![Screenshot 2023-11-11 024459](https://github.com/yamenallaf222/SimpleShooter_Git/assets/128222208/83fa6993-8f6f-4b6f-8060-0d1605743874)
 
-Here is a youtube Video for Game Gameplay
 
-https://youtu.be/a-OwlQ-wEb8?si=9l1YhagXypBnr5fb
 
 
 If you want to Download the Project as an Unreal Project you can but there will be main assets missing cause i was not able 
